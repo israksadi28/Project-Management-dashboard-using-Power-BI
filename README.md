@@ -11,4 +11,4 @@ For this project the following data-set has been used:
 #### *Name of the powerBI file:* Project Management Dashboard.pbix
 
 ##### i. Project Management Dashboard
-![Project Management Dashboard](https://github.com/israksadi28/Project-Management-dashboard-using-Power-BI/blob/main/Project%20Management%20Dashboard.JPG?raw=true)
+![Project Management Dashboard](https://github.com/israksadi28/Project-Management-dashboard-using-Power-BI/blob/main/Project%20Management%20Dashboard.jpg?raw=true)
